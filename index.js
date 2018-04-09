@@ -11,5 +11,5 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 var problem = function sayHiToGrandma(string) {
-  if problem === 
+  if problem === "hello"
 }
