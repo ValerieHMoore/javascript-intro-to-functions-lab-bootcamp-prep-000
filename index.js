@@ -12,4 +12,5 @@ function logWhisper(string) {
 }
 var problem = function sayHiToGrandma(string) {
   if (problem === "hello")
+  return 
 }
